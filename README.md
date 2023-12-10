@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/wutim111/Frontend-Mentor-QRcode](https://github.com/wutim111/Frontend-Mentor-QRcode)
+- Live Site URL: [https://wutim111.github.io/Frontend-Mentor-QRcode/](https://wutim111.github.io/Frontend-Mentor-QRcode/)
 
 ## My process
 
@@ -49,6 +49,6 @@ Min-Width
 
 ## Author
 
-- Website - [wutim111](https://www.your-site.com)
+- Website - [wutim111](https://github.com/wutim111)
 - Frontend Mentor - [@wutim111](https://www.frontendmentor.io/profile/wutim111)
 - Twitter - [@wutim111](https://www.twitter.com/wutim111)
